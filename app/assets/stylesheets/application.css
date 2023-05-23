@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+.task-container {
+  display: flex;
+  flex-direction: row;
+}
+ p {
+  margin: 10px;
+ }
